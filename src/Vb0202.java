@@ -21,7 +21,7 @@ class Paneel extends JPanel
 
     public Paneel()
     {
-        knop = new JButton("Klik");
+        knop = new JButton("Klikken");
         tekstvak = new JTextField(10);
         add(knop);
         add(tekstvak);
